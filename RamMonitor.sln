@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ram Monitor", "Ram Monitor\Ram Monitor.csproj", "{68B5AD84-7D79-4B40-A7EF-B994EA01B318}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RamMonitor", "RamMonitor\RamMonitor.csproj", "{68B5AD84-7D79-4B40-A7EF-B994EA01B318}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RamMonitor.WindowsService", "RamMonitorService\RamMonitor.WindowsService.csproj", "{C1BA20D9-49AC-448E-9A08-701F67026340}"
 EndProject

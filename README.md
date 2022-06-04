@@ -2,7 +2,7 @@
 
 A small program to display RAM usage on my RGB RAM sticks using the ASUS Aura SDK.
 
-[Example image](./example.jpg)
+![Example image](./example.jpg)
 
 # Usage
 
